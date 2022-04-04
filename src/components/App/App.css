@@ -1,0 +1,9 @@
+.app {
+  width: 100%;
+  max-width: 1000px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  background-color: rgb(255, 255, 255);
+}
